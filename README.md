@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -58,3 +59,23 @@ If you want to learn more about building native executables, please consult http
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+=======
+# Proyecto Java CRUD con Quarkus y Oracle
+
+Este proyecto es un sistema CRUD desarrollado en **Java con Quarkus**, utilizando **Oracle Database XE** como base de datos, preparado para ejecutarse con **Docker y Docker Compose**.
+
+---
+
+## Requisitos
+
+- [Docker](https://www.docker.com/get-started)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+---
+
+## Clonar el repositorio
+
+```bash
+git clone https://github.com/Eduu4/proyecto_java_crud.git
+cd proyecto_java_crud
+>>>>>>> af9e845 (Docker Compose con Oracle, scripts de inicialización y ajustes recientes)

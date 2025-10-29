@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+>>>>>>> af9e845 (Docker Compose con Oracle, scripts de inicialización y ajustes recientes)
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.proyecto.fitapp</groupId>
@@ -68,6 +72,13 @@
         <!-- Test -->
         <dependency>
             <groupId>io.quarkus</groupId>
+<<<<<<< HEAD
+=======
+            <artifactId>quarkus-swagger-ui</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+>>>>>>> af9e845 (Docker Compose con Oracle, scripts de inicialización y ajustes recientes)
             <artifactId>quarkus-junit5</artifactId>
             <scope>test</scope>
         </dependency>
@@ -151,4 +162,8 @@
             </properties>
         </profile>
     </profiles>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> af9e845 (Docker Compose con Oracle, scripts de inicialización y ajustes recientes)
