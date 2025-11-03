@@ -79,4 +79,5 @@ Este proyecto es un sistema CRUD desarrollado en **Java con Quarkus**, utilizand
 ```bash
 git clone https://github.com/Eduu4/proyecto_java_crud.git
 cd proyecto_java_crud
->>>>>>> af9e845 (Docker Compose con Oracle, scripts de inicialización y ajustes recientes)
+docker-compose up --build
+
