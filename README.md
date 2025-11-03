@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -80,4 +79,5 @@ Este proyecto es un sistema CRUD desarrollado en **Java con Quarkus**, utilizand
 git clone https://github.com/Eduu4/proyecto_java_crud.git
 cd proyecto_java_crud
 docker-compose up --build
+
 
